@@ -29,3 +29,5 @@ for band_name, carrier_frequency_hz in carrier_frequencies_hz.items():
         f"Doppler shift = {doppler_shift_hz / 1000:.2f} kHz"
     )
 
+
+
